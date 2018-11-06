@@ -1,2 +1,2 @@
 hello world
-Standard desktop Git pro
+Goodbye git pro
